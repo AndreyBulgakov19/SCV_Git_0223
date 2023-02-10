@@ -15,10 +15,5 @@
 git config --global user.name «Ваше имя английскими буквами»
 git config --global user.email ваша почта@example.com
 ```
-``` C#
-while (n<0)
-{
-    n++;
-}
-```
+
 ## 4. Инициализация
