@@ -135,7 +135,7 @@ git checkout -b <имя ветки>
 
 * Отправляем свою версию в свой GitHub
 ```
-git push
+git push --set-upstream origin new
 ```
 
 * На сайте GitHub нажимаем кнопку pull request 
