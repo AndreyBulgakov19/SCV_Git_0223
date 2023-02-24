@@ -186,3 +186,4 @@ git remote
 - Нажать на кнопку "Create pull request"
 - Добавть описание при необходимости
 - Нажать на кнопку "Create pull request"
+
